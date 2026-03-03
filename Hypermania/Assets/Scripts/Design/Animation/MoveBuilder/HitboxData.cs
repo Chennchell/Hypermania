@@ -1,5 +1,7 @@
 using System;
 using System.Collections.Generic;
+using Game;
+using MemoryPack;
 using UnityEngine;
 using Utils.SoftFloat;
 
@@ -21,7 +23,8 @@ namespace Design.Animation
     }
 
     [Serializable]
-    public struct BoxProps : IEquatable<BoxProps>
+    [MemoryPackable]
+    public partial struct BoxProps : IEquatable<BoxProps>
     {
         // NOTE: ensure that any new fields added above are added to the equals and hashcode implementation!!!
         public HitboxKind Kind;
@@ -65,25 +68,20 @@ namespace Design.Animation
     [Serializable]
     public struct BoxData : IEquatable<BoxData>
     {
-        public string Name;
-
         public SVector2 CenterLocal;
         public SVector2 SizeLocal;
         public BoxProps Props;
 
         public bool Equals(BoxData other)
         {
-            return Name == other.Name
-                && CenterLocal == other.CenterLocal
-                && SizeLocal == other.SizeLocal
-                && Props.Equals(other.Props);
+            return CenterLocal == other.CenterLocal && SizeLocal == other.SizeLocal && Props.Equals(other.Props);
         }
 
         public override bool Equals(object obj) => obj is BoxData other && Equals(other);
 
         public override int GetHashCode()
         {
-            return HashCode.Combine(Name, CenterLocal, SizeLocal, Props);
+            return HashCode.Combine(CenterLocal, SizeLocal, Props);
         }
 
         public static bool operator ==(BoxData left, BoxData right) => left.Equals(right);
@@ -149,16 +147,25 @@ namespace Design.Animation
         public int TotalTicks => Frames.Count;
         public List<FrameData> Frames = new List<FrameData>();
 
-        public void EnsureSize(int totalTicks)
+        public bool EnsureSize(AnimationClip clip)
         {
+            int totalTicks = Mathf.CeilToInt(clip.length * GameManager.TPS) + 1;
+            bool changed = false;
             if (totalTicks < 1)
             {
                 throw new InvalidOperationException("total ticks must be >= 1");
             }
             while (Frames.Count < totalTicks)
+            {
                 Frames.Add(new FrameData());
+                changed = true;
+            }
             while (Frames.Count > totalTicks)
+            {
                 Frames.RemoveAt(Frames.Count - 1);
+                changed = true;
+            }
+            return changed;
         }
 
         public FrameData GetFrame(int tick)
