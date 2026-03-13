@@ -404,15 +404,16 @@ namespace Game.Sim
                         // set the notes to start at the beat after that
                         nextBeat = options.Global.Audio.NextBeat(nextBeat + 1, AudioConfig.BeatSubdivision.QuarterNote);
 
+                        // 16 frames in between beats
                         for (int i = 0; i < 16; i++)
                         {
-                            Manias[owners.Item1]
-                                .QueueNote(
+                            Manias[owners.Item1].QueueNote(
                                     i % 4,
                                     new ManiaNote
                                     {
                                         Length = 0,
                                         Tick = nextBeat,
+                                        // ok so if i change the name of this attack, it use that place holder attack for all mania keys pressed
                                         HitInput = InputFlags.MediumAttack,
                                     }
                                 );

@@ -393,7 +393,7 @@ MonoBehaviour:
         Damage: 15
         HitstunTicks: 12
         BlockstunTicks: 8
-        HitstopTicks: 12
+        HitstopTicks: 3
         StartsRhythmCombo: 1
         KnockdownKind: 1
         Knockback:
@@ -417,7 +417,7 @@ MonoBehaviour:
         Damage: 15
         HitstunTicks: 12
         BlockstunTicks: 8
-        HitstopTicks: 12
+        HitstopTicks: 3
         StartsRhythmCombo: 1
         KnockdownKind: 1
         Knockback:

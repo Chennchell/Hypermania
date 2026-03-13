@@ -33,6 +33,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -58,6 +59,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -83,6 +85,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -108,6 +111,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -133,6 +137,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -158,6 +163,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -183,6 +189,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -208,6 +215,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -233,6 +241,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -258,6 +267,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -283,6 +293,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -308,6 +319,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -333,6 +345,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -356,6 +369,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -379,6 +393,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -404,6 +419,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -427,6 +443,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -450,6 +467,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -475,6 +493,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -498,6 +517,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -521,6 +541,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -546,6 +567,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -569,6 +591,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -592,6 +615,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -617,6 +641,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -640,6 +665,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -663,6 +689,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -688,6 +715,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -711,6 +739,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -734,6 +763,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 15
         StartsRhythmCombo: 1
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1067619483
@@ -759,6 +789,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -782,6 +813,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -803,8 +835,9 @@ MonoBehaviour:
         Damage: 20
         HitstunTicks: 12
         BlockstunTicks: 0
-        HitstopTicks: 15
+        HitstopTicks: 3
         StartsRhythmCombo: 1
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1067619483
@@ -830,6 +863,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -853,6 +887,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -876,6 +911,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 15
         StartsRhythmCombo: 1
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1067619483
@@ -901,6 +937,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -924,6 +961,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -947,6 +985,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 15
         StartsRhythmCombo: 1
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1067619483
@@ -972,6 +1011,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -995,6 +1035,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1018,6 +1059,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 15
         StartsRhythmCombo: 1
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1067619483
@@ -1043,6 +1085,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1066,6 +1109,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1089,6 +1133,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 15
         StartsRhythmCombo: 1
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1067619483
@@ -1114,6 +1159,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1137,6 +1183,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1160,6 +1207,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 15
         StartsRhythmCombo: 1
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1067619483
@@ -1185,6 +1233,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1208,6 +1257,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1231,6 +1281,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 15
         StartsRhythmCombo: 1
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1067619483
@@ -1256,6 +1307,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1279,6 +1331,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1302,6 +1355,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 15
         StartsRhythmCombo: 1
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1067619483
@@ -1327,6 +1381,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1352,6 +1407,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1377,6 +1433,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1402,6 +1459,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1427,6 +1485,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1452,6 +1511,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1477,6 +1537,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1502,6 +1563,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1527,6 +1589,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
@@ -1552,6 +1615,7 @@ MonoBehaviour:
         BlockstunTicks: 0
         HitstopTicks: 0
         StartsRhythmCombo: 0
+        KnockdownKind: 0
         Knockback:
           x:
             rawValue: 1065353216
